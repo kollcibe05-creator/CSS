@@ -5,3 +5,11 @@ sup{
     text-align: center;
     align-self: center;
 }
+.div{
+    background-color: tomato;
+    text-align: center;
+    width: 60%;
+    height: 4vh;
+    align-self: center;
+    margin: auto;
+}
